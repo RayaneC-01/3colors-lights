@@ -4,7 +4,6 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/-Ray__Joee-/pen/b
 
 
 # How to install it?
-
 - Install 1st VS studio code on your local machine
 - Open VS Studio code on your local machine and open a new terminal command and write:
 ```bash

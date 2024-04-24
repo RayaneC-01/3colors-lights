@@ -27,7 +27,7 @@ function eteindreVert() {
 }
 
 function allumerJaune() {
-  // Code pour allumer le feu jaune
+  // Code pour allumer le feu jaune !
   let feuJaune = document.querySelector('.yellow');
   // Changer la couleur du feu vert en "allumé"
   feuJaune.style.backgroundColor = 'yellow';
